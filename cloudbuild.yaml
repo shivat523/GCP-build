@@ -15,4 +15,4 @@ steps:
   - 'CLOUDSDK_CONTAINER_CLUSTER=my-cluster'
 images:
 - 'gcr.io/$webx-424701/nginx:latest'
-logsBucket: 'gs://my-build-logs-bucket'
+logsBucket: 'gs://my-build-logs-bucket001'
